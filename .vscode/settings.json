@@ -6,6 +6,7 @@
         "linebreak",
         "plusplus",
         "transformative",
+        "uuidv4",
         "wirelessly"
     ]
 }
